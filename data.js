@@ -10,10 +10,20 @@ const photoData = {
         "DSC06210.jpg",
         "DSC06211.jpg",
         "DSC06212.jpg",
+        "DSC06213.jpg",
+        "DSC06214.jpg",
+        "DSC06215.jpg",
+        "DSC06216.jpg",
+        "DSC06217.jpg",
+        "DSC06218.jpg",
         "DSC06262.jpg",
+        "DSC06263.jpg",
         "DSC06266.jpg"
     ],
     "李嘉慧": [
+        "DSC06267.jpg",
+        "DSC06268.jpg",
+        "DSC06269.jpg",
         "DSC06274.jpg",
         "DSC06292.jpg",
         "DSC06293.jpg",
@@ -25,6 +35,8 @@ const photoData = {
         "DSC06319.jpg"
     ],
     "肖璠": [
+        "DSC06257.jpg",
+        "DSC06258.jpg",
         "DSC06259.jpg",
         "DSC06283.jpg",
         "DSC06284.jpg",
